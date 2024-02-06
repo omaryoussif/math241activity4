@@ -1,0 +1,7 @@
+---
+title: "Math 241 - Activity 4"
+output: pdf_document
+date: "2024-02-06"
+---
+
+Names: Omar Youssif
