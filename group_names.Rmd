@@ -10,6 +10,13 @@ Ashwin Dev
 
 
 Favorite candy: Airheads
+
+Favorite color: Purple
+
+Favorite Movie: Everything Everywhere All At Once
+
+
+Favorite candy: Airheads
 Favorite color: blue
 Favorite movie: Moonlight
 
@@ -19,3 +26,4 @@ Favorite Candy: KitKat
 Favorite Color: Blue
 
 Favorite Movie: Ratatouille
+
